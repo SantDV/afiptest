@@ -1,0 +1,112 @@
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\factura afip test.exe
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\factura afip test.deps.json
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\factura afip test.runtimeconfig.json
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\factura afip test.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\factura afip test.pdb
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura_afip_test.Form1.resources
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura afip test.csproj.GenerateResource.cache
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura afip test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura afip test.AssemblyInfoInputs.cache
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura afip test.AssemblyInfo.cs
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura afip test.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura afip test.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\refint\factura afip test.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura afip test.pdb
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura afip test.genruntimeconfig.cache
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\ref\factura afip test.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\certificado.pfx
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\mi_clave.key
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\System.ServiceModel.Federation.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\System.ServiceModel.NetFramingBase.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\System.ServiceModel.NetNamedPipe.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\de\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\es\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\it\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\de\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\es\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\it\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetNamedPipe.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura afip test.csproj.AssemblyReference.cache
+C:\Users\SANTIAGO\Desktop\test\factura afip test\factura afip test\obj\Debug\net8.0-windows\factura .7DA7232C.Up2Date

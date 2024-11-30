@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TRA xmlns="http://ar.gov.afip.dia.wsaa">
+  <Header>
+    <uniqueId>123456</uniqueId>
+    <generationTime>2024-11-30T07:12:15Z</generationTime>
+    <expirationTime>2024-11-30T19:12:15Z</expirationTime>
+  </Header>
+  <service>wsfe</service>
+</TRA>

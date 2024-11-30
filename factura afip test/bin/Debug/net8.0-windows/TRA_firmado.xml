@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TRA xmlns="http://ar.gov.afip.dia.wsaa">
+  <Header>
+    <uniqueId>123456</uniqueId>
+    <generationTime>2024-11-30T07:12:15Z</generationTime>
+    <expirationTime>2024-11-30T19:12:15Z</expirationTime>
+  </Header>
+  <service>wsfe</service>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+          <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>5xYdYoDLgoQ0Lv8m++sXIYiu2SZkEuYrytjRgvM7VrU=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>ixCARqqC7zwBUJlP1y6t55DUq6NZPS8iJ4nZzzrKZbGnWvIRTy8TfJ6BbM/JmOQWld85LmrlQMfnkHJdJV18zD0Z+82Lwo/XVtqiGm+4CxsEMHwoVM+de+MU4UY6ONbftEabEw0QqSKt4xZOGTedUZjsrLnCM08C1gsw30hY6TrFZMhgEQBoB6dghTgXlXQVYMBXg9zHTift1c2fkGxicP3Nrw3TgOGrnWB2DJ344stZ6FbNLszbt6BeaB4BBb21Z5ADN1l3zLXXkrDtCzuQYTdy5FNeEkCinajkmvvUwTJmey1DkBtGcQZ5hEe6j70phfYnifRA+rIGF0lb35KQYg==</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIDSjCCAjKgAwIBAgIIA5Cr8tSH4z4wDQYJKoZIhvcNAQENBQAwMzEVMBMGA1UEAwwMQ29tcHV0YWRvcmVzMQ0wCwYDVQQKDARBRklQMQswCQYDVQQGEwJBUjAeFw0yNDExMjAwNzI0MzFaFw0yNjExMjAwNzI0MzFaMDUxGDAWBgNVBAMMD0NlcnRpZmljYWRvQUZJUDEZMBcGA1UEBRMQQ1VJVCAyMzM1NDQ3MzU2OTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAPUnKG+iorCsybS7JUvYjPbj3CcTry2BkPFSma8ixOLa2T0a3ceqbbDOxgR5nWwA7IGktNdU9Yrac1EHNSCoCbiNMbNoTZ4vLwlUI+ygMyVmoZIplXOopyWhxrOUIe6rjHZ+9TPswLyq1fx/u/EdvozL9UQ3VV8kYb+H1kNVbJgWSkAlHhVVL8YWGwLj/QcVgVeMfHICb1BnwZzhWh6K8GP+uAqd6bZQyUPhajlnCbydpKsJpYowbA7fDuW15gO8zYo47Q5vUmTkkimafZACwq/paowxy6ipjXKTbrdIbzLpLHa/Q7htg4r+rFpiGyvk5GpKwAMYfVCUxyDuQoxO0ssCAwEAAaNgMF4wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQrDS/I32H9CMlOEdA1kwRtjlvQbjAdBgNVHQ4EFgQU+ggPpqhtWhqL7fY/BX5tkrkTkPEwDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBDQUAA4IBAQB+E6onizsUatZXPoKhUIslsYJboOxpf6SZ+HrYHrGYdI6RC9uqma93YB55NHg9ZDllhaei2mqUK6UrviqCO+1cDmTU7uvItLr8FQEPUbSN9+EjNpl30/2t8D/c/1M1C3IW2Tnk6Getjlafcjt04rK6OcA7v1d54KI+U9dHa0MMdiq/4kAMrStTKh1ZGxyWoLVkr/PH4q9eK5MwMRD4uSBsJL8o6b6i2gLt9e+SiBbK3idodyc23tHp2S2S7ct7RdsrFouB5fRR7sLcuHxudpvc4F83b8TUKK2/HfNxXWjtJBxxAVknqT0CB/rEAhMs6ecV6z4LOzoT7fP03WZBzy1i</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+  </Signature>
+</TRA>
